@@ -1,4 +1,4 @@
-Hi! I’m Tirupathi Rao, a Cloud Data Engineer with 2+ years of experience building data pipelines and analytics solutions in healthcare and fintech domains.
+Hi! I’m Tirupathi Rao, a Cloud Data Engineer with 4+ years of experience building data pipelines and analytics solutions in healthcare and fintech domains.
 
 This resume highlights:
 
